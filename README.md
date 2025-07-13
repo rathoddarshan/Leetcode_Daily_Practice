@@ -8,14 +8,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2486-most-frequent-even-element) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0011-container-with-most-water) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0011-container-with-most-water) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
