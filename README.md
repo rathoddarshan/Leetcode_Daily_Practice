@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
