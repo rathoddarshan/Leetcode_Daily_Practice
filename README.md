@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0058-length-of-last-word) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
