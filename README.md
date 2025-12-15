@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0392-is-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0392-is-subsequence) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3396-valid-word](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/3396-valid-word) |
 ## Queue
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
