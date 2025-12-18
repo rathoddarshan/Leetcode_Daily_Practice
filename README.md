@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0088-merge-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0141-linked-list-cycle) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0274-h-index) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
