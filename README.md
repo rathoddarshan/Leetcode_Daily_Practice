@@ -180,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
