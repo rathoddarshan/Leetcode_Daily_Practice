@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0274-h-index) |
 | [0560-subarray-sum-equals-k](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0189-rotate-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1925-count-square-sum-triples](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1925-count-square-sum-triples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0110-balanced-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
