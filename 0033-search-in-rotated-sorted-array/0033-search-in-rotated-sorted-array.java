@@ -1,6 +1,5 @@
 class Solution {
     public int search(int[] nums, int target) {
-
         int l = 0;
         int r = nums.length-1;
 
@@ -29,6 +28,7 @@ class Solution {
             }
         }
         return -1;
+        
         
     }
 }
