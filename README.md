@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0134-gas-station) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0110-balanced-binary-tree) |
 ## Geometry
 |  |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
