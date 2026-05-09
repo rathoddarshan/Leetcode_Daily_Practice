@@ -22,7 +22,7 @@ class Solution {
 
         fillList(root);
 
-        Collections.sort(ls);
+        // Collections.sort(ls);
 
         return result();
 
@@ -30,8 +30,8 @@ class Solution {
     private void fillList(TreeNode root) {
         if(root == null) return;
         
-        ls.add(root.val);
         fillList(root.left);
+        ls.add(root.val);
         fillList(root.right);
     }
     private int result(){
