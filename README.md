@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
