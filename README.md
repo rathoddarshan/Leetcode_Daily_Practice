@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0134-gas-station) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -244,11 +247,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Heap (Priority Queue)
 |  |
