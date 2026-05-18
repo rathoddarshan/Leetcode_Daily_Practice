@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0143-reorder-list) |
+| [0173-binary-search-tree-iterator](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Linked List
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Geometry
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Heap (Priority Queue)
 |  |
@@ -263,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
