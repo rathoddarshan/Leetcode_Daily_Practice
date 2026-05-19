@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2540-minimum-common-value) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0392-is-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2540-minimum-common-value](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2486-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
