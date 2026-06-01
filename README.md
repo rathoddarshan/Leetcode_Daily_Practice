@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0045-jump-game-ii) |
+| [0056-merge-intervals](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/rathoddarshan/Leetcode_Daily_Practice/tree/master/0274-h-index) |
